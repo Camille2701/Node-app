@@ -1,0 +1,7 @@
+# Ignorer les fichiers de développement
+*.log
+node_modules/
+
+# Ignorer les artefacts de construction
+build/
+dist/
